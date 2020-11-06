@@ -30,6 +30,8 @@ Use this command to install vim.
 https://www.digitalocean.com/community/tutorials/an-introduction-to-linux-basics  
 https://www.hostinger.com/tutorials/linux-commands  
 https://www.linuxjournal.com/content/linux-command-line-interface-introduction-guide
+### Vim
+https://vim.rtorr.com/
 ### Programming References
 #### Consolidated SPIM reference
 https://www.cse.iitm.ac.in/~krishna/cs3300/spim_ref.html
