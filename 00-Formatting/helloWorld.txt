@@ -1,0 +1,5 @@
+Assignment 0 - Hello world
+
+Write a short assembly program printing out the string "Hello world!\n".
+Make sure you follow the formatting lined out in the sample.s file.
+On iLearn, turn in an assembly file named "<firstname>_<lastname>_a<#>.s", replacing each field with the relevant information.
