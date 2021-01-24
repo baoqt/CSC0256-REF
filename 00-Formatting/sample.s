@@ -41,9 +41,9 @@ forExt:
 	lw	$t3,	4($s3)		# x = ptr[1]
 	sw	$t0,	8($s3)		# ptr[2] = y
 
-	jal	funct			# Function call
 	li	$a0,	10
 	li	$a1,	3
+	jal	funct			# Function call
 	move	$s4,	$v0		# ret_val = funct(10, 3);
 
 	li	$v0,	10		# Use this syscall to exit your program
