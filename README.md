@@ -8,6 +8,7 @@ https://docs.microsoft.com/en-us/windows/wsl/install-win10
 https://www.windowscentral.com/install-windows-subsystem-linux-windows-10
 ### Linux / Mac
 Open the terminal app.
+Use homebrew instead of apt.
 ### Installation
 First run these commandc.
 
