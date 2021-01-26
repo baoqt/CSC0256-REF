@@ -44,3 +44,5 @@ http://www.cs.tufts.edu/comp/140/lectures/Day_3/mips_summary.pdf
 http://www.doc.ic.ac.uk/lab/secondyear/spim/node8.html
 #### How to read programming error messages / debugging
 https://www.gustavwengel.dk/googling-error-messages-1
+#### VisUAL ARM simulator
+https://salmanarif.bitbucket.io/visual/downloads.html
