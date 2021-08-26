@@ -9,8 +9,12 @@ https://www.windowscentral.com/install-windows-subsystem-linux-windows-10
 ### Linux / Mac
 Open the terminal app.
 Use homebrew instead of apt.
+
+https://brew.sh/  
+https://formulae.brew.sh/formula/vim#default  
+https://formulae.brew.sh/formula/spim#default  
 ### Installation
-First run these commandc.
+First run these commands.
 
 `sudo apt update`  
 `sudo apt upgrade`
