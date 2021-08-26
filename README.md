@@ -11,8 +11,10 @@ Open the terminal app.
 Use homebrew instead of apt.
 
 https://brew.sh/  
-https://formulae.brew.sh/formula/vim#default  
+https://formulae.brew.sh/formula/git#default  
 https://formulae.brew.sh/formula/spim#default  
+https://formulae.brew.sh/formula/vim#default
+
 ### Installation
 First run these commands.
 
