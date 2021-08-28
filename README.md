@@ -6,17 +6,22 @@ Use either of these tutorials to set up Windows Subsystem for Linux. I'll be usi
 
 https://docs.microsoft.com/en-us/windows/wsl/install-win10  
 https://www.windowscentral.com/install-windows-subsystem-linux-windows-10
-### Linux / Mac
-Open the terminal app.
+### Mac
 Use homebrew instead of apt.
 
-https://brew.sh/  
+https://brew.sh/ 
+https://treehouse.github.io/installation-guides/mac/homebrew  
+https://docs.brew.sh/Installation  
+
 https://formulae.brew.sh/formula/git#default  
 https://formulae.brew.sh/formula/spim#default  
 https://formulae.brew.sh/formula/vim#default
+### Linux
+Open the terminal or a command line interface.
 
 ### Installation
 First run these commands.
+For Mac users, type `brew` instead of `apt`
 
 `sudo apt update`  
 `sudo apt upgrade`
@@ -32,6 +37,10 @@ Use this command to install SPIM.
 Use this command to install vim.
 
 `sudo apt install vim`
+## Alternative
+The MIPS emulator MARS on iLearn will also allow you to program and run MIPS assembly programs.
+Make sure you have java installed.
+
 ## Useful links
 ### Linux systems basics
 https://www.digitalocean.com/community/tutorials/an-introduction-to-linux-basics  
