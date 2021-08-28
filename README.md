@@ -9,7 +9,7 @@ https://www.windowscentral.com/install-windows-subsystem-linux-windows-10
 ### Mac
 Use homebrew instead of apt.
 
-https://brew.sh/ 
+https://brew.sh/  
 https://treehouse.github.io/installation-guides/mac/homebrew  
 https://docs.brew.sh/Installation  
 
