@@ -55,6 +55,7 @@ https://www.cse.iitm.ac.in/~krishna/cs3300/spim_ref.html
 http://www.cs.uwm.edu/classes/cs315/Bacon/Lecture/HTML/ch05s03.html
 #### Instructions
 https://www.dsi.unive.it/~gasparetto/materials/MIPS_Instruction_Set.pdf  
+https://phoenix.goucher.edu/~kelliher/f2009/cs220/mipsir.html  
 http://www.cs.tufts.edu/comp/140/lectures/Day_3/mips_summary.pdf
 #### Syscalls
 http://www.doc.ic.ac.uk/lab/secondyear/spim/node8.html
