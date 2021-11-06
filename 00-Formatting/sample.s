@@ -12,7 +12,7 @@ str:	.asciiz	"Hello world!\n"	# char* str = "Hello world!\n";
 
 arr0:	.word	0:16			# Array of 16 words, all initialized to 0
 
-arr1:	.half	25			# Array of 25 halfwords, uninitialized
+arr1:	.half	3:25			# Array of 25 halfwords, all initialized to 3
 
 arr2:	.byte	4,			# Array of 3 bytes, individually initialized
 	.byte	5,
